@@ -1,0 +1,14 @@
+div{
+    background-color: aqua;
+    /* border: 10px solid tomato; */
+    border-radius: 10px;
+    padding: 15px;
+    text-align: justify;
+}
+h3{
+    text-align: center;
+    font-size: xx-large;
+}
+*{
+    margin: 8px 5px 5px;
+}
